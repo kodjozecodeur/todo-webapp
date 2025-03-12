@@ -1,9 +1,9 @@
-import Navbar from "./components/Navbar";
+import Todo from "./Components/Todo.jsx";
 
 function App() {
   return (
     <>
-      <Navbar />
+      <Todo /> {/*it is called mounting a component*/}
     </>
   );
 }
